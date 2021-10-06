@@ -3,16 +3,16 @@ BITEC-13 is a pixel-style simulation Unity game inspired by COVID-19. The curren
 
 <div display="flex" flex-wrap="wrap" padding="4px">
   <div flex="50%" padding="4px">
-    <img src="./demo/home.jpg" width="250">
-    <img src="./demo/tins3.jpg" width="250">
-    <img src="./demo/trend4.jpg" width="250">
-    <img src="./demo/tins2.jpg" width="250">
+    <img src="./demo/home.jpg" width="200">
+    <img src="./demo/tins3.jpg" width="200">
+    <img src="./demo/trend4.jpg" width="200">
+    <img src="./demo/tins2.jpg" width="200">
   </div>
   <div flex="50%" padding="4px">
-    <img src="./demo/trend1.jpg" width="250">
-    <img src="./demo/requests.jpg" width="250">
-    <img src="./demo/fordknight.jpg" width="250">
-    <img src="./demo/music.jpg" width="250">
+    <img src="./demo/trend1.jpg" width="200">
+    <img src="./demo/requests.jpg" width="200">
+    <img src="./demo/fordknight.jpg" width="200">
+    <img src="./demo/music.jpg" width="200">
   </div>
 </div>
 
